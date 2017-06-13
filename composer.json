@@ -1,0 +1,17 @@
+{
+    "name": "maxbaun/tagprints-gallery",
+	"version" : "1.0.0",
+    "description": "Plugin Description",
+    "type": "wordpress-plugin",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^2.8",
+        "phpunit/phpunit": "^5.7"
+    },
+    "authors": [
+        {
+            "name": "Max Baun",
+            "email": "max@d3applications.com"
+        }
+    ],
+    "require": {}
+}
